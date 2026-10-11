@@ -403,7 +403,8 @@
         "TargetUserSid": "keyword",
         "TaskName": "keyword",
         "TicketEncryptionType": "keyword",
-        "TicketOptions": "keyword"
+        "TicketOptions": "keyword",
+	"VhdFileName": "keyword"
       }
     },
     "winlog.logon.id": "keyword",
